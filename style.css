@@ -13,3 +13,9 @@
     text-align: center;
     font-style: italic;
 }
+#hluboka {
+    color: darkblue;
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
